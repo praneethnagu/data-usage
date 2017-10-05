@@ -1,0 +1,88 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:background="#ffffff"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.iiitb.datausage.Fragments.SummaryFragment">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:paddingTop="@dimen/activity_horizontal_margin"
+        android:text="Your average data consumption"
+        android:textColor="#372c24"
+        android:id="@+id/heading_tv"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Per hour"
+        android:textColor="#372c24"
+        android:id="@+id/hour_tv"
+        android:layout_marginTop="42dp"
+        android:layout_below="@+id/heading_tv"
+        android:layout_alignLeft="@+id/heading_tv"
+        android:layout_alignStart="@+id/heading_tv" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Per day"
+        android:textColor="#372c24"
+        android:id="@+id/day_tv"
+        android:layout_below="@+id/hour_tv"
+        android:layout_alignLeft="@+id/hour_tv"
+        android:layout_alignStart="@+id/hour_tv"
+        android:layout_marginTop="42dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:text="Per month"
+        android:textColor="#372c24"
+        android:id="@+id/month_tv"
+        android:layout_below="@+id/day_tv"
+        android:layout_alignLeft="@+id/day_tv"
+        android:layout_alignStart="@+id/day_tv"
+        android:layout_marginTop="42dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="hourValue"
+        android:textColor="#372c24"
+        android:id="@+id/hourValue_tv"
+        android:layout_above="@+id/day_tv"
+        android:layout_alignRight="@+id/heading_tv"
+        android:layout_alignEnd="@+id/heading_tv" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="dayValue"
+        android:textColor="#372c24"
+        android:id="@+id/dayValue_tv"
+        android:layout_alignTop="@+id/day_tv"
+        android:layout_alignRight="@+id/hourValue_tv"
+        android:layout_alignEnd="@+id/hourValue_tv" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text="monthValue"
+        android:textColor="#372c24"
+        android:id="@+id/monthValue_tv"
+        android:layout_alignBottom="@+id/month_tv"
+        android:layout_alignRight="@+id/dayValue_tv"
+        android:layout_alignEnd="@+id/dayValue_tv" />
+</RelativeLayout>

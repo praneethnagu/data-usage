@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout-sw600dp-v13/design_layout_snackbar.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/5de81c94370254d2630b82c68a97e2dde3e544e0/output/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    }
+]

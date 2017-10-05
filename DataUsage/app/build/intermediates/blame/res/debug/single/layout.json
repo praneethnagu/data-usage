@@ -1,0 +1,514 @@
+[
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/5de81c94370254d2630b82c68a97e2dde3e544e0/output/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_tabs_home.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\src\\main\\res\\layout\\activity_tabs_home.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/5de81c94370254d2630b82c68a97e2dde3e544e0/output/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/fragment_apps.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/layout/fragment_apps.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\app_bar_tabs_home.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\src\\main\\res\\layout\\app_bar_tabs_home.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/5de81c94370254d2630b82c68a97e2dde3e544e0/output/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header_tabs_home.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\src\\main\\res\\layout\\nav_header_tabs_home.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/5de81c94370254d2630b82c68a97e2dde3e544e0/output/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/item_application_data.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/layout/item_application_data.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/5de81c94370254d2630b82c68a97e2dde3e544e0/output/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_change_password.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/fragment_mobile.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/layout/fragment_mobile.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/activity_no_sim.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/layout/activity_no_sim.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_mobile.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\src\\main\\res\\layout\\fragment_mobile.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/5de81c94370254d2630b82c68a97e2dde3e544e0/output/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_no_sim.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\src\\main\\res\\layout\\activity_no_sim.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\item_application_data.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\src\\main\\res\\layout\\item_application_data.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/nav_header_tabs_home.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/layout/nav_header_tabs_home.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/layout/activity_login.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_registration.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\src\\main\\res\\layout\\activity_registration.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/content_tabs_home.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/layout/content_tabs_home.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/activity_change_password.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/layout/activity_change_password.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_tabs_home.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\src\\main\\res\\layout\\content_tabs_home.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/activity_tabs_home.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/layout/activity_tabs_home.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/activity_registration.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/layout/activity_registration.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/5de81c94370254d2630b82c68a97e2dde3e544e0/output/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_apps.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\src\\main\\res\\layout\\fragment_apps.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/fragment_summary.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/layout/fragment_summary.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/5de81c94370254d2630b82c68a97e2dde3e544e0/output/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/activity_about.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/layout/activity_about.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/5de81c94370254d2630b82c68a97e2dde3e544e0/output/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/5de81c94370254d2630b82c68a97e2dde3e544e0/output/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_wifi.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\src\\main\\res\\layout\\fragment_wifi.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_total.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\src\\main\\res\\layout\\fragment_total.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_summary.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\src\\main\\res\\layout\\fragment_summary.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_about.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/fragment_total.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/layout/fragment_total.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/5de81c94370254d2630b82c68a97e2dde3e544e0/output/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/app_bar_tabs_home.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/layout/app_bar_tabs_home.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/fragment_wifi.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/layout/fragment_wifi.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/f15e1a7edf8b1b8035062ad8f033fc3b30e5dca7/output/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/Users/praneethnagu/.android/build-cache/5de81c94370254d2630b82c68a97e2dde3e544e0/output/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.4.0\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/F:\\Manoj\\2.Masters\\IIIT-B\\Year_2\\Semester_3\\Project_Elective\\DataUsage\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.4.0\\res\\layout\\design_navigation_item.xml"
+    }
+]

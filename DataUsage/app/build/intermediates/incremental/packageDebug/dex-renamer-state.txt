@@ -1,0 +1,7 @@
+#Tue Oct 03 18:55:01 IST 2017
+base.0=/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_112a515208477a10f4f60e55626bd1417a504ca7
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0f501982feff7a9943bb647bc639c3b9c3341dc9/classes.dex
+base.1=/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_0f501982feff7a9943bb647bc639c3b9c3341dc9
+file.0=/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_112a515208477a10f4f60e55626bd1417a504ca7/classes.dex
