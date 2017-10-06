@@ -1,14 +1,26 @@
 [
     {
-        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_app_icon.png",
-        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/mipmap-xxxhdpi/ic_app_icon.png"
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_app_icon.png",
+        "source": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_app_icon.png"
     },
     {
-        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_total_data_icon.png",
-        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/mipmap-xxxhdpi/ic_total_data_icon.png"
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_total_data_icon.png",
+        "source": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_total_data_icon.png"
     },
     {
-        "merged": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi/ic_launcher.png",
-        "source": "/Users/praneethnagu/Downloads/Android Code/DataUsage/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\praneethnagu\\Downloads\\Android Code\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_total_data_icon.png",
+        "source": "C:\\Users\\praneethnagu\\Downloads\\Android Code\\DataUsage\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_total_data_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\praneethnagu\\Downloads\\Android Code\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\praneethnagu\\Downloads\\Android Code\\DataUsage\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\praneethnagu\\Downloads\\Android Code\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_app_icon.png",
+        "source": "C:\\Users\\praneethnagu\\Downloads\\Android Code\\DataUsage\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_app_icon.png"
     }
 ]

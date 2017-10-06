@@ -62,6 +62,12 @@
             android:layout_alignRight="@+id/wifiPieChart"
             android:layout_alignEnd="@+id/wifiPieChart" />
 
+        <com.github.mikephil.charting.charts.BarChart
+            android:id="@+id/wifiBarchart"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:layout_margin="5dp"
+            android:layout_below="@+id/rx_label"/>
 
     </RelativeLayout>
 </ScrollView>
