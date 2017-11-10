@@ -45,7 +45,7 @@ public class TotalFragment extends Fragment
     PieChart mChart;
     // we're going to display pie chart for Wifi and Mobile Data Usage
     private long[] yValues = {0,0};
-    private String[] xValues = {"Mobile Usage", "Wifi Usage"};
+    private String[] xValues = {"Mobile Usage", "WiFi Usage"};
 
     // colors for different sections in pieChart
     public static  final int[] MY_COLORS =
@@ -159,9 +159,9 @@ public class TotalFragment extends Fragment
         //BarEntry v2e6 = new BarEntry(80.000f, 5); // Jun
         //valueSet2.add(v2e6);
 
-        BarDataSet barDataSet1 = new BarDataSet(valueSet1, "Data Transmitted");
+        BarDataSet barDataSet1 = new BarDataSet(valueSet1, "Mobile Usage");
         barDataSet1.setColor(Color.rgb(0, 155, 0));
-        BarDataSet barDataSet2 = new BarDataSet(valueSet2, "Data Received");
+        BarDataSet barDataSet2 = new BarDataSet(valueSet2, "WiFi Usage");
         barDataSet2.setColors(ColorTemplate.COLORFUL_COLORS);
 
         dataSets = new ArrayList<>();

@@ -61,13 +61,6 @@
             android:layout_alignEnd="@+id/mobilePieChart" />
 
 
-        <com.github.mikephil.charting.charts.BarChart
-            android:id="@+id/mobileBarchart"
-            android:layout_width="match_parent"
-            android:layout_height="300dp"
-            android:layout_margin="5dp"
-            android:layout_below="@+id/rx_label"/>
-
     </RelativeLayout>
 
 </ScrollView>

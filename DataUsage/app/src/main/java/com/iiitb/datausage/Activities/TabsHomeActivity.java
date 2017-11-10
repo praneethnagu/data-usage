@@ -26,6 +26,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 
 import com.iiitb.datausage.Fragments.AppsFragment;
+import com.iiitb.datausage.Fragments.HomeMobileFragment;
 import com.iiitb.datausage.Fragments.MobileFragment;
 import com.iiitb.datausage.Fragments.SummaryFragment;
 import com.iiitb.datausage.Fragments.TotalFragment;
@@ -99,7 +100,7 @@ public class TabsHomeActivity extends AppCompatActivity implements NavigationVie
     {
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
         adapter.addFragment(new SummaryFragment(), "Summary");
-        adapter.addFragment(new MobileFragment(), "Mobile");
+        adapter.addFragment(new HomeMobileFragment(), "Mobile");
         adapter.addFragment(new WifiFragment(), "Wifi");
         adapter.addFragment(new TotalFragment(), "Total");
         adapter.addFragment(new AppsFragment(), "Apps");
@@ -149,6 +150,9 @@ public class TabsHomeActivity extends AppCompatActivity implements NavigationVie
         if (drawer.isDrawerOpen(GravityCompat.START))
         {
             drawer.closeDrawer(GravityCompat.START);
+        }
+        else if (getFragmentManager().getBackStackEntryCount() > 0) {
+            getFragmentManager().popBackStack();
         }
         else
         {
