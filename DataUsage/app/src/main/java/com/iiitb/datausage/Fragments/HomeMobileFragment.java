@@ -4,6 +4,7 @@ import android.support.v4.app.Fragment;
 import android.os.Bundle;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -20,7 +21,7 @@ public class HomeMobileFragment extends Fragment implements View.OnClickListener
     private Button buttonPie, buttonBar, buttonLine;
 
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
-        View view = inflater.inflate(R.layout.fragment_home_mobile, container, false);
+        View view = inflater.inflate(R.layout.fragment_home_mobile, container,false);
 
         buttonPie = (Button) view.findViewById(R.id.buttonPie);
         buttonBar = (Button) view.findViewById(R.id.buttonBar);
@@ -34,15 +35,20 @@ public class HomeMobileFragment extends Fragment implements View.OnClickListener
 
     }
 
+
+
+
+
     @Override
     public void onClick(View v) {
         if (v == buttonPie){
-            FragmentManager fm = getFragmentManager();
+            FragmentManager fm = getActivity().getSupportFragmentManager();
             FragmentTransaction ft = fm.beginTransaction();
-            //int i = ((ViewGroup)getView().getParent()).getId();
-            //ft.replace(i,new MobileFragment());
+//            int i = ((ViewGroup)getView().getParent()).getId();
+//            Log.e("kjefn",""+i);
+//            ft.replace(i,new MobileFragment());
             ft.replace(R.id.home_mobile_frag, new MobileFragment());
-            ft.addToBackStack("mobile");
+            ft.addToBackStack(null);
             ft.commit();
         }
         else if (v == buttonBar){
@@ -52,7 +58,7 @@ public class HomeMobileFragment extends Fragment implements View.OnClickListener
             //int i = ((ViewGroup)getView().getParent()).getId();
             //ft.replace(i,new MobileBarFragment());
             ft.replace(R.id.home_mobile_frag , new MobileBarFragment());
-            ft.addToBackStack("mobile");
+            ft.addToBackStack(null);
             ft.commit();
         }
         else if (v == buttonLine){

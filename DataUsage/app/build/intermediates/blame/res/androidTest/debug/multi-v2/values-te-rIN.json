@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\incremental\\mergeDebugAndroidTestResources\\merged.dir\\values-te-rIN\\values-te-rIN.xml",
+            "outputFile": "/Users/praneethnagu/Desktop/data-usage/DataUsage/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merged.dir/values-te-rIN/values-te-rIN.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\ABHIJNU\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\92b4a29bee9de51b170b2154f552928d\\res\\values-te-rIN\\values-te-rIN.xml",
+                    "source": "/Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b8e07076259d1d97f4156e79e49b9b9d/res/values-te-rIN/values-te-rIN.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

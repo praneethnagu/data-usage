@@ -32,6 +32,7 @@ public class MobileBarFragment extends Fragment {
         // Required empty public constructor
     }
 
+
     @Override
     public void onCreate(Bundle savedInstanceState)
     {
@@ -51,9 +52,7 @@ public class MobileBarFragment extends Fragment {
         chart.animateXY(1400, 1400);
         chart.invalidate();
 
-        if (container != null) {
-            container.removeAllViews();
-        }
+
 
         return view;
     }

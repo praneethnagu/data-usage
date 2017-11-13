@@ -22,7 +22,7 @@ public class AboutActivity extends AppCompatActivity
         webView = (WebView) findViewById(R.id.webView);
         String summary = "<html>" +
                             "<body>" +
-                                "<p> Mobile Data Usage provides an insight to the user regarding his data consumption </p>" +
+                                "<p> Mobile Data Usage provides an insight to the user regarding his data consumption through Mobile data and WIFI.</p>" +
                                 "<p> Developed by students of IIIT-B</p>" +
                                 "<ul>" +
                                     "<li>Praneeth</li>" +

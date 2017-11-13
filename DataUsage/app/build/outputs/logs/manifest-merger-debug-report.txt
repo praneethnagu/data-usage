@@ -1,171 +1,171 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:2:1-59:12
-MERGED from [com.android.support:design:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\cde6048ca850640ad7afef5b50fa5d56\AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\92b4a29bee9de51b170b2154f552928d\AndroidManifest.xml:17:1-27:12
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\b0d094bcd5646210609136f092a00b9c\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\780be6beae3f617d201cf3da2840a2e1\AndroidManifest.xml:2:1-9:12
-MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\89da2c34fbfc4ee19d4ffa4480a53903\AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\093cbeb527755256b083654a8afa835f\AndroidManifest.xml:17:1-24:12
-INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:2:1-59:12
-INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:2:1-59:12
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:2:1-59:12
+MERGED from [com.android.support:design:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/f9b679104ebfd91b192fdedc96ab0aa8/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b8e07076259d1d97f4156e79e49b9b9d/AndroidManifest.xml:17:1-27:12
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/c441bd55a2a093bab1cfdffef5bf9beb/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/e881a5ea513a0ee58aaccb7eab84272b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/a1b32c38691451aad03770334cc822cc/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/ab76492abce1ab2f006e8acc6cf3cd96/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:2:1-59:12
+INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:2:1-59:12
 	package
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:3:5-34
-		INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:2:1-59:12
-		INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:2:1-59:12
+		INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml
 	android:versionCode
-		INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:2:1-59:12
-		INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:2:1-59:12
+		INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.INTERNET
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:5:5-67
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:5:5-67
 	android:name
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:5:22-64
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:5:22-64
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:6:5-79
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:6:5-79
 	android:name
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:6:22-76
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:6:22-76
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:7:5-81
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:7:5-81
 	android:name
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:7:22-78
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:7:22-78
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:8:5-79
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:8:5-79
 	android:name
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:8:22-76
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:8:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:9:5-81
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:9:5-81
 	android:name
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:9:22-78
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:9:22-78
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:10:5-75
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:10:5-75
 	android:name
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:10:22-72
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:10:22-72
 application
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:12:5-57:19
-MERGED from [com.android.support:design:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\cde6048ca850640ad7afef5b50fa5d56\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:design:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\cde6048ca850640ad7afef5b50fa5d56\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\92b4a29bee9de51b170b2154f552928d\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\92b4a29bee9de51b170b2154f552928d\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\b0d094bcd5646210609136f092a00b9c\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\b0d094bcd5646210609136f092a00b9c\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\780be6beae3f617d201cf3da2840a2e1\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\780be6beae3f617d201cf3da2840a2e1\AndroidManifest.xml:7:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\093cbeb527755256b083654a8afa835f\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\093cbeb527755256b083654a8afa835f\AndroidManifest.xml:22:5-20
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:12:5-57:19
+MERGED from [com.android.support:design:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/f9b679104ebfd91b192fdedc96ab0aa8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/f9b679104ebfd91b192fdedc96ab0aa8/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b8e07076259d1d97f4156e79e49b9b9d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b8e07076259d1d97f4156e79e49b9b9d/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/c441bd55a2a093bab1cfdffef5bf9beb/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/c441bd55a2a093bab1cfdffef5bf9beb/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/e881a5ea513a0ee58aaccb7eab84272b/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/e881a5ea513a0ee58aaccb7eab84272b/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/ab76492abce1ab2f006e8acc6cf3cd96/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/ab76492abce1ab2f006e8acc6cf3cd96/AndroidManifest.xml:22:5-20
 	android:supportsRtl
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:16:9-35
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:16:9-35
 	android:label
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:15:9-41
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:15:9-41
 	android:icon
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:14:9-43
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:14:9-43
 	android:allowBackup
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:13:9-35
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:17:9-40
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:17:9-40
 activity#com.iiitb.datausage.Activities.LoginActivity
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:19:9-26:20
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:19:9-26:20
 	android:screenOrientation
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:20:13-49
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:20:13-49
 	android:name
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:19:19-59
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:19:19-59
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:21:13-25:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:22:17-69
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:22:17-69
 	android:name
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:22:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:24:17-77
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:24:17-77
 	android:name
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:24:27-74
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:24:27-74
 activity#com.iiitb.datausage.Activities.RegistrationActivity
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:28:9-29:51
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:28:9-29:51
 	android:screenOrientation
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:29:13-49
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:29:13-49
 	android:name
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:28:19-66
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:28:19-66
 activity#com.iiitb.datausage.Activities.TabsHomeActivity
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:31:9-35:59
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:31:9-35:59
 	android:screenOrientation
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:33:13-49
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:33:13-49
 	android:label
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:34:13-61
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:34:13-61
 	android:theme
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:35:13-56
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:35:13-56
 	android:name
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:32:13-56
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:32:13-56
 activity#com.iiitb.datausage.Activities.AboutActivity
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:37:9-38:51
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:37:9-38:51
 	android:screenOrientation
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:38:13-49
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:38:13-49
 	android:name
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:37:19-59
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:37:19-59
 activity#com.iiitb.datausage.Activities.ChangePasswordActivity
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:40:9-41:51
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:40:9-41:51
 	android:screenOrientation
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:41:13-49
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:41:13-49
 	android:name
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:40:19-68
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:40:19-68
 activity#com.iiitb.datausage.Activities.NoSimActivity
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:43:9-44:61
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:43:9-44:61
 	android:screenOrientation
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:44:13-49
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:44:13-49
 	android:name
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:43:19-59
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:43:19-59
 receiver#com.iiitb.datausage.Receivers.AutoStartBroadcastReceiver
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:46:9-50:20
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:46:9-50:20
 	android:name
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:46:19-71
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:46:19-71
 intent-filter#android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:47:13-49:29
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:47:13-49:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:48:17-79
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:48:17-79
 	android:name
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:48:25-76
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:48:25-76
 service#com.iiitb.datausage.Services.SendDataToServerService
-ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:52:9-55:39
+ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:52:9-55:39
 	android:enabled
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:54:13-35
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:54:13-35
 	android:exported
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:55:13-36
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:55:13-36
 	android:name
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml:53:13-61
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml:53:13-61
 uses-sdk
-INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml
-MERGED from [com.android.support:design:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\cde6048ca850640ad7afef5b50fa5d56\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:design:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\design-23.4.0.aar\cde6048ca850640ad7afef5b50fa5d56\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\92b4a29bee9de51b170b2154f552928d\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\92b4a29bee9de51b170b2154f552928d\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\b0d094bcd5646210609136f092a00b9c\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:animated-vector-drawable:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-23.4.0.aar\b0d094bcd5646210609136f092a00b9c\AndroidManifest.xml:5:5-44
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\780be6beae3f617d201cf3da2840a2e1\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:support-vector-drawable:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-23.4.0.aar\780be6beae3f617d201cf3da2840a2e1\AndroidManifest.xml:5:5-43
-MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\89da2c34fbfc4ee19d4ffa4480a53903\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:recyclerview-v7:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-23.4.0.aar\89da2c34fbfc4ee19d4ffa4480a53903\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\093cbeb527755256b083654a8afa835f\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:support-v4:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\support-v4-23.4.0.aar\093cbeb527755256b083654a8afa835f\AndroidManifest.xml:20:5-43
-INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml
-INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml
+INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml
+INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/f9b679104ebfd91b192fdedc96ab0aa8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:design:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/f9b679104ebfd91b192fdedc96ab0aa8/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b8e07076259d1d97f4156e79e49b9b9d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b8e07076259d1d97f4156e79e49b9b9d/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/c441bd55a2a093bab1cfdffef5bf9beb/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-23.4.0.aar/c441bd55a2a093bab1cfdffef5bf9beb/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/e881a5ea513a0ee58aaccb7eab84272b/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-23.4.0.aar/e881a5ea513a0ee58aaccb7eab84272b/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/a1b32c38691451aad03770334cc822cc/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-23.4.0.aar/a1b32c38691451aad03770334cc822cc/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/ab76492abce1ab2f006e8acc6cf3cd96/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/support-v4-23.4.0.aar/ab76492abce1ab2f006e8acc6cf3cd96/AndroidManifest.xml:20:5-43
+INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml
+INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:23.4.0] C:\Users\ABHIJNU\.gradle\caches\transforms-1\files-1.1\appcompat-v7-23.4.0.aar\92b4a29bee9de51b170b2154f552928d\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b8e07076259d1d97f4156e79e49b9b9d/AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml
-		INJECTED from C:\Users\ABHIJNU\Desktop\data-usage\DataUsage\app\src\main\AndroidManifest.xml
+		INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml
+		ADDED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/AndroidManifest.xml

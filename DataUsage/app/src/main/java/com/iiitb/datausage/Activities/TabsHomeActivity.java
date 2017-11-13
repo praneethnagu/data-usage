@@ -13,6 +13,7 @@ import android.os.Bundle;
 import android.support.design.widget.NavigationView;
 import android.support.design.widget.TabLayout;
 import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 import android.support.v4.view.GravityCompat;
@@ -106,6 +107,7 @@ public class TabsHomeActivity extends AppCompatActivity implements NavigationVie
         adapter.addFragment(new AppsFragment(), "Apps");
         viewPager.setAdapter(adapter);
     }
+
 
     //Building the tabs
     class ViewPagerAdapter extends FragmentPagerAdapter
@@ -336,6 +338,7 @@ public class TabsHomeActivity extends AppCompatActivity implements NavigationVie
         }
     }
 }
+
 
 class AppDataComparator implements Comparator<AppDataModel>
 {
