@@ -256,8 +256,17 @@
         "source": "/Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b8e07076259d1d97f4156e79e49b9b9d/res/layout/abc_activity_chooser_view.xml"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/praneethnagu/Desktop/data-usage/DataUsage/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_about_icon.png.flat",
         "source": "/Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/res/drawable-xhdpi/ic_about_icon.png"
+=======
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_wifi_bar.xml.flat",
+        "source": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\src\\main\\res\\layout\\fragment_wifi_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\ABHIJNU\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\92b4a29bee9de51b170b2154f552928d\\res\\drawable\\abc_btn_check_material.xml"
+>>>>>>> 6ae8c77819fde3b8d866caddbbea3aff6885bae6
     },
     {
         "merged": "/Users/praneethnagu/Desktop/data-usage/DataUsage/app/build/intermediates/res/merged/debug/layout_abc_activity_chooser_view_list_item.xml.flat",
@@ -440,8 +449,17 @@
         "source": "/Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b8e07076259d1d97f4156e79e49b9b9d/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/praneethnagu/Desktop/data-usage/DataUsage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b8e07076259d1d97f4156e79e49b9b9d/res/drawable-hdpi-v4/abc_ic_star_half_black_36dp.png"
+=======
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_total.xml.flat",
+        "source": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\src\\main\\res\\layout\\fragment_home_total.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\ABHIJNU\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\92b4a29bee9de51b170b2154f552928d\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+>>>>>>> 6ae8c77819fde3b8d866caddbbea3aff6885bae6
     },
     {
         "merged": "/Users/praneethnagu/Desktop/data-usage/DataUsage/app/build/intermediates/res/merged/debug/drawable_abc_item_background_holo_dark.xml.flat",
@@ -584,8 +602,17 @@
         "source": "/Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b8e07076259d1d97f4156e79e49b9b9d/res/drawable-hdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/praneethnagu/Desktop/data-usage/DataUsage/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
         "source": "/Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b8e07076259d1d97f4156e79e49b9b9d/res/drawable-hdpi-v4/abc_list_pressed_holo_light.9.png"
+=======
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_wifi_line.xml.flat",
+        "source": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\src\\main\\res\\layout\\fragment_wifi_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\ABHIJNU\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\92b4a29bee9de51b170b2154f552928d\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+>>>>>>> 6ae8c77819fde3b8d866caddbbea3aff6885bae6
     },
     {
         "merged": "/Users/praneethnagu/Desktop/data-usage/DataUsage/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_internal_bg.xml.flat",
@@ -1188,8 +1215,17 @@
         "source": "/Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b8e07076259d1d97f4156e79e49b9b9d/res/drawable-mdpi-v4/abc_list_pressed_holo_dark.9.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/praneethnagu/Desktop/data-usage/DataUsage/app/build/intermediates/res/merged/debug/layout_design_layout_tab_icon.xml.flat",
         "source": "/Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/design-23.4.0.aar/f9b679104ebfd91b192fdedc96ab0aa8/res/layout/design_layout_tab_icon.xml"
+=======
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_total_bar.xml.flat",
+        "source": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\src\\main\\res\\layout\\fragment_total_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_apps_icon.png.flat",
+        "source": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\src\\main\\res\\drawable-hdpi\\ic_apps_icon.png"
+>>>>>>> 6ae8c77819fde3b8d866caddbbea3aff6885bae6
     },
     {
         "merged": "/Users/praneethnagu/Desktop/data-usage/DataUsage/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -1312,8 +1348,17 @@
         "source": "/Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b8e07076259d1d97f4156e79e49b9b9d/res/drawable-hdpi-v4/abc_btn_radio_to_on_mtrl_015.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/praneethnagu/Desktop/data-usage/DataUsage/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_mobile_data_icon.png.flat",
         "source": "/Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/res/drawable-xhdpi/ic_mobile_data_icon.png"
+=======
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_total_line.xml.flat",
+        "source": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\src\\main\\res\\layout\\fragment_total_line.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\ABHIJNU\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\92b4a29bee9de51b170b2154f552928d\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+>>>>>>> 6ae8c77819fde3b8d866caddbbea3aff6885bae6
     },
     {
         "merged": "/Users/praneethnagu/Desktop/data-usage/DataUsage/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_ic_search_api_mtrl_alpha.png.flat",
@@ -1360,8 +1405,17 @@
         "source": "/Users/praneethnagu/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.4.0.aar/b8e07076259d1d97f4156e79e49b9b9d/res/drawable-mdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png"
     },
     {
+<<<<<<< HEAD
         "merged": "/Users/praneethnagu/Desktop/data-usage/DataUsage/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
         "source": "/Users/praneethnagu/Desktop/data-usage/DataUsage/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+=======
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_wifi.xml.flat",
+        "source": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\src\\main\\res\\layout\\fragment_home_wifi.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\ABHIJNU\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\92b4a29bee9de51b170b2154f552928d\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_ab_back_mtrl_am_alpha.png"
+>>>>>>> 6ae8c77819fde3b8d866caddbbea3aff6885bae6
     },
     {
         "merged": "/Users/praneethnagu/Desktop/data-usage/DataUsage/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",

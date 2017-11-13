@@ -1,0 +1,45 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.iiitb.datausage.Fragments.HomeTotalFragment"
+    android:id="@+id/home_total_frag">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="Total Data Usage Charts"
+        android:textAlignment="center"/>
+
+    <Button
+        android:id="@+id/buttonPie"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Pie Chart"
+        android:layout_marginBottom="90dp"
+        android:layout_above="@+id/buttonBar"
+        android:layout_alignLeft="@+id/buttonBar"
+        android:layout_alignStart="@+id/buttonBar" />
+
+    <Button
+        android:id="@+id/buttonBar"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Bar Chart"
+        android:layout_marginBottom="96dp"
+        android:layout_above="@+id/buttonLine"
+        android:layout_alignLeft="@+id/buttonLine"
+        android:layout_alignStart="@+id/buttonLine" />
+
+    <Button
+        android:id="@+id/buttonLine"
+        android:layout_width="150dp"
+        android:layout_height="wrap_content"
+        android:text="Line Chart"
+        android:layout_marginBottom="45dp"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+
+</RelativeLayout>

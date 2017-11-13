@@ -2,7 +2,9 @@ package com.iiitb.datausage.Fragments;
 
 import android.graphics.Color;
 import android.os.Bundle;
+import android.os.SystemClock;
 import android.support.v4.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -18,9 +20,14 @@ import com.github.mikephil.charting.highlight.Highlight;
 import com.github.mikephil.charting.interfaces.datasets.ILineDataSet;
 import com.github.mikephil.charting.listener.ChartTouchListener;
 import com.iiitb.datausage.Model.StaticDataModel;
+import com.iiitb.datausage.Model.StaticVariables;
 import com.iiitb.datausage.R;
 
+import java.text.SimpleDateFormat;
 import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Date;
+import java.util.Locale;
 
 /**
  * Created by ABHIJNU on 11/9/2017.
@@ -73,28 +80,57 @@ public class MobileLineFragment extends Fragment {
         return view;
     }
 
-
     private ArrayList<String> setXAxisValues(){
-        ArrayList<String> xVals = new ArrayList<String>();
-        xVals.add("10");
-        xVals.add("20");
-        xVals.add("30");
-        xVals.add("30.5");
-        xVals.add("40");
+        ArrayList<String> xVals = new ArrayList<>();
+        xVals.add("Mon");
+        xVals.add("Tue");
+        xVals.add("Wed");
+        xVals.add("Thu");
+        xVals.add("Fri");
+        xVals.add("Sat");
+        xVals.add("Sun");
 
         return xVals;
     }
 
     private ArrayList<Entry> setYAxisValues(){
-        ArrayList<Entry> yVals = new ArrayList<Entry>();
-        yVals.add(new Entry(60, 0));
-        yVals.add(new Entry(48, 1));
-        yVals.add(new Entry(70.5f, 2));
-        yVals.add(new Entry(100, 3));
-        yVals.add(new Entry(180.9f, 4));
+
+        long ms = SystemClock.elapsedRealtime();
+        long hours = ms / (1000 * 60 * 60);
+        long total = StaticDataModel.mobileTX + StaticDataModel.mobileRX;
+
+        String result = StaticVariables.dataConverter(total);
+        String tokens[] = {"0", "0"};
+        if(result.length() > 0)
+        {
+            tokens = result.split(" ");
+        }
+
+        double value = Double.parseDouble(tokens[0]);
+        String unit = tokens[1];
+        int days = (int) (hours/24);
+        double week = 7*value/days;
+        Double[] weekdata = new Double[7];
+        weekdata[0] = 0.12 * week;
+        weekdata[1] = 0.09 * week;
+        weekdata[2] = 0.08 * week;
+        weekdata[3] = 0.10 * week;
+        weekdata[4] = 0.15 * week;
+        weekdata[5] = 0.22 * week;
+        weekdata[6] = 0.24 * week;
+        //weekData(hours, value);
+        ArrayList<Entry> yVals = new ArrayList<>();
+        yVals.add(new Entry(weekdata[0].floatValue(), 0));
+        yVals.add(new Entry(weekdata[1].floatValue(), 1));
+        yVals.add(new Entry(weekdata[2].floatValue(), 2));
+        yVals.add(new Entry(weekdata[3].floatValue(), 3));
+        yVals.add(new Entry(weekdata[4].floatValue(), 4));
+        yVals.add(new Entry(weekdata[5].floatValue(), 5));
+        yVals.add(new Entry(weekdata[6].floatValue(), 6));
 
         return yVals;
     }
+
 
     private void setData() {
         ArrayList<String> xVals = setXAxisValues();
@@ -104,7 +140,19 @@ public class MobileLineFragment extends Fragment {
         LineDataSet set1;
 
         // create a dataset and give it a type
-        set1 = new LineDataSet(yVals, "Mobile Data");
+        long total = StaticDataModel.mobileTX + StaticDataModel.mobileRX;
+
+        String result = StaticVariables.dataConverter(total);
+        String tokens[] = {"0", "0"};
+        if(result.length() > 0)
+        {
+            tokens = result.split(" ");
+        }
+
+        double value = Double.parseDouble(tokens[0]);
+        String unit = tokens[1];
+
+        set1 = new LineDataSet(yVals, "Mobile Data (" + unit + ")");
         set1.setFillAlpha(110);
         // set1.setFillColor(Color.RED);
 

@@ -16,6 +16,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentActivity;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
+import android.support.v4.app.FragmentTransaction;
 import android.support.v4.view.GravityCompat;
 import android.support.v4.view.ViewPager;
 import android.support.v4.widget.DrawerLayout;
@@ -28,6 +29,8 @@ import android.view.MenuItem;
 
 import com.iiitb.datausage.Fragments.AppsFragment;
 import com.iiitb.datausage.Fragments.HomeMobileFragment;
+import com.iiitb.datausage.Fragments.HomeTotalFragment;
+import com.iiitb.datausage.Fragments.HomeWifiFragment;
 import com.iiitb.datausage.Fragments.MobileFragment;
 import com.iiitb.datausage.Fragments.SummaryFragment;
 import com.iiitb.datausage.Fragments.TotalFragment;
@@ -82,6 +85,14 @@ public class TabsHomeActivity extends AppCompatActivity implements NavigationVie
         tabsHomeActivityAsyncTask = new TabsHomeActivityAsyncTask(this);
         tabsHomeActivityAsyncTask.execute();
 
+        FragmentManager fm = getSupportFragmentManager();
+        /*fm.addOnBackStackChangedListener(new FragmentManager.OnBackStackChangedListener() {
+            @Override
+            public void onBackStackChanged() {
+//                Log.e("b")
+//                if(getSupportFragmentManager().getBackStackEntryCount() == 0) finish();
+            }
+        });*/
         Log.d(TAG, "Starting the Service");
         startService(new Intent(this, SendDataToServerService.class));
     }
@@ -102,8 +113,8 @@ public class TabsHomeActivity extends AppCompatActivity implements NavigationVie
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
         adapter.addFragment(new SummaryFragment(), "Summary");
         adapter.addFragment(new HomeMobileFragment(), "Mobile");
-        adapter.addFragment(new WifiFragment(), "Wifi");
-        adapter.addFragment(new TotalFragment(), "Total");
+        adapter.addFragment(new HomeWifiFragment(), "Wifi");
+        adapter.addFragment(new HomeTotalFragment(), "Total");
         adapter.addFragment(new AppsFragment(), "Apps");
         viewPager.setAdapter(adapter);
     }
@@ -148,17 +159,25 @@ public class TabsHomeActivity extends AppCompatActivity implements NavigationVie
     @Override
     public void onBackPressed()
     {
+
+
         DrawerLayout drawer = (DrawerLayout) findViewById(R.id.drawer_layout);
         if (drawer.isDrawerOpen(GravityCompat.START))
         {
+
             drawer.closeDrawer(GravityCompat.START);
         }
         else if (getFragmentManager().getBackStackEntryCount() > 0) {
+            Log.e("ad","adasdasd");
+
             getFragmentManager().popBackStack();
         }
         else
         {
+            Log.e("ad","ewrwer");
+
             super.onBackPressed();
+
         }
     }
 

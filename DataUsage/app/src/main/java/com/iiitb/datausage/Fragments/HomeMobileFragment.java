@@ -31,6 +31,8 @@ public class HomeMobileFragment extends Fragment implements View.OnClickListener
         buttonBar.setOnClickListener(this);
         buttonLine.setOnClickListener(this);
 
+
+
         return view;
 
     }
@@ -52,7 +54,7 @@ public class HomeMobileFragment extends Fragment implements View.OnClickListener
             ft.commit();
         }
         else if (v == buttonBar){
-            FragmentManager fm = getActivity().getSupportFragmentManager();
+            FragmentManager fm = getFragmentManager();
             //fm.addOnBackStackChangedListener((FragmentManager.OnBackStackChangedListener) this);
             FragmentTransaction ft = fm.beginTransaction();
             //int i = ((ViewGroup)getView().getParent()).getId();

@@ -33,7 +33,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAppearance="?android:attr/textAppearanceMedium"
-        android:text="Per day"
+        android:text="Per week"
         android:textColor="#372c24"
         android:id="@+id/day_tv"
         android:layout_below="@+id/hour_tv"

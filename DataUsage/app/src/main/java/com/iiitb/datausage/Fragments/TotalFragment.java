@@ -2,9 +2,9 @@ package com.iiitb.datausage.Fragments;
 
 import android.graphics.Color;
 import android.os.Bundle;
-import android.os.SystemClock;
 import android.support.v4.app.Fragment;
-import android.util.Log;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentTransaction;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -33,25 +33,26 @@ import com.iiitb.datausage.R;
 
 import java.text.DecimalFormat;
 import java.util.ArrayList;
-import java.util.Calendar;
 import java.util.List;
 
 public class TotalFragment extends Fragment
 {
-    TextView wifi;
-    TextView mobileData;
+    TextView tx;
+    TextView rx;
+    static public String Fname="mobile";
 
     //Pie Chart Variables
     PieChart mChart;
     // we're going to display pie chart for Wifi and Mobile Data Usage
-    private long[] yValues = {0,0};
-    private String[] xValues = {"Mobile Usage", "WiFi Usage"};
+    private long[] yValues = {StaticDataModel.mobileTX + StaticDataModel.mobileRX, StaticDataModel.wifiTX + StaticDataModel.wifiRX};
+    private String[] xValues = {"Mobile Data", "WiFi"};
 
     // colors for different sections in pieChart
     public static  final int[] MY_COLORS =
             {
                     Color.rgb(255,105,180), Color.rgb(0,191,255) ,Color.rgb(220,20,60), Color.rgb(65,105,225), Color.rgb(255,255,51)
             };
+
 
     public TotalFragment()
     {
@@ -62,14 +63,15 @@ public class TotalFragment extends Fragment
     public void onCreate(Bundle savedInstanceState)
     {
         super.onCreate(savedInstanceState);
+
     }
+
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
     {
         // Inflate the layout for this fragment
         View view =  inflater.inflate(R.layout.fragment_total, container, false);
-
 
         //Piechart code
         mChart = (PieChart) view.findViewById(R.id.totalPieChart);
@@ -97,102 +99,30 @@ public class TotalFragment extends Fragment
         });
 
         // setting sample Data for Pie Chart
-        long wTotal = StaticDataModel.wifiRX + StaticDataModel.wifiTX;
-        long mTotal = StaticDataModel.mobileRX + StaticDataModel.mobileTX;
-
-        yValues[0] = mTotal;
-        yValues[1] = wTotal;
-        Log.d("Total Fragment", "Val: " + mTotal + " " + wTotal);
         setDataForPieChart();
 
-        wifi = (TextView) view.findViewById(R.id.tx_label);
-        mobileData = (TextView) view.findViewById(R.id.rx_label);
+        tx = (TextView) view.findViewById(R.id.tx_label);
+        rx = (TextView) view.findViewById(R.id.rx_label);
 
+        tx.setText(StaticVariables.dataConverter(StaticDataModel.mobileTX + StaticDataModel.mobileRX));
+        rx.setText(StaticVariables.dataConverter(StaticDataModel.wifiTX + StaticDataModel.wifiRX));
 
-        wifi.setText(StaticVariables.dataConverter(wTotal));
-        mobileData.setText(StaticVariables.dataConverter(mTotal));
+        /*if (container != null) {
+            container.removeAllViews();
 
-        BarChart chart = (BarChart) view.findViewById(R.id.totalBarchart);
-
-        BarData data = new BarData(getXAxisValues(), getDataSet());
-        chart.setData(data);
-        chart.setDescription("");
-        chart.animateXY(1400, 1400);
-        chart.invalidate();
-
+        }
+*/
         return view;
-    }
-    private ArrayList<IBarDataSet> getDataSet() {
-        ArrayList<IBarDataSet> dataSets = null;
-        long wTotal = StaticDataModel.wifiRX + StaticDataModel.wifiTX;
-        long mTotal = StaticDataModel.mobileRX + StaticDataModel.mobileTX;
-
-        yValues[0] = mTotal;
-        yValues[1] = wTotal;
-        ArrayList<BarEntry> valueSet1 = new ArrayList<>();
-        long x = yValues[0]/(1024*1024);
-        BarEntry v1e1 = new BarEntry(x, 0); // Jan
-        valueSet1.add(v1e1);
-        //BarEntry v1e2 = new BarEntry(40.000f, 1); // Feb
-        //valueSet1.add(v1e2);
-        //BarEntry v1e3 = new BarEntry(60.000f, 2); // Mar
-        //valueSet1.add(v1e3);
-        //BarEntry v1e4 = new BarEntry(30.000f, 3); // Apr
-        //valueSet1.add(v1e4);
-        //BarEntry v1e5 = new BarEntry(90.000f, 4); // May
-        //valueSet1.add(v1e5);
-        //BarEntry v1e6 = new BarEntry(100.000f, 5); // Jun
-        //valueSet1.add(v1e6);
-
-        ArrayList<BarEntry> valueSet2 = new ArrayList<>();
-        long y = yValues[1]/(1024*1024);
-        BarEntry v2e1 = new BarEntry(y, 0); // Jan
-        valueSet2.add(v2e1);
-        //BarEntry v2e2 = new BarEntry(90.000f, 1); // Feb
-        //valueSet2.add(v2e2);
-        //BarEntry v2e3 = new BarEntry(120.000f, 2); // Mar
-        //valueSet2.add(v2e3);
-        //BarEntry v2e4 = new BarEntry(60.000f, 3); // Apr
-        //valueSet2.add(v2e4);
-        //BarEntry v2e5 = new BarEntry(20.000f, 4); // May
-        //valueSet2.add(v2e5);
-        //BarEntry v2e6 = new BarEntry(80.000f, 5); // Jun
-        //valueSet2.add(v2e6);
-
-        BarDataSet barDataSet1 = new BarDataSet(valueSet1, "Mobile Usage");
-        barDataSet1.setColor(Color.rgb(0, 155, 0));
-        BarDataSet barDataSet2 = new BarDataSet(valueSet2, "WiFi Usage");
-        barDataSet2.setColors(ColorTemplate.COLORFUL_COLORS);
-
-        dataSets = new ArrayList<>();
-        dataSets.add(barDataSet1);
-        dataSets.add(barDataSet2);
-        return dataSets;
-    }
-
-    private ArrayList<String> getXAxisValues() {
-        ArrayList<String> xAxis = new ArrayList<>();
-        xAxis.add("in MB");
-        //xAxis.add("FEB");
-        //xAxis.add("MAR");
-        //xAxis.add("APR");
-        //xAxis.add("MAY");
-        //xAxis.add("JUN");
-        return xAxis;
     }
 
     //Functions for Pie Chart
     public void setDataForPieChart()
     {
         long total = yValues[0] + yValues[1];
-        double wifi = (yValues[1]*1.0)/total * 100;
-        double mobileData = ((yValues[0] * 1.0) /total) * 100;
-
-        Log.d("Pie Values", "" + wifi + mobileData);
-
-        yValues[0] = Math.round(mobileData);
-        yValues[1] = Math.round(wifi);
-
+        double tx = yValues[0] /(total * 1.0) * 100;
+        double rx = yValues[1]/(total * 1.0) * 100;
+        yValues[0] = Math.round(tx);
+        yValues[1] = Math.round(rx);
 
         ArrayList<Entry> yVals1 = new ArrayList<Entry>();
 
@@ -262,6 +192,5 @@ public class TotalFragment extends Fragment
             return mFormat.format(value) + "%"; // e.g. append a dollar-sign
         }
     }
-
 
 }
