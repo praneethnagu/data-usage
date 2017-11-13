@@ -3,6 +3,8 @@ package com.iiitb.datausage.Fragments;
 import android.graphics.Color;
 import android.os.Bundle;
 import android.support.v4.app.Fragment;
+import android.support.v4.app.FragmentManager;
+import android.support.v4.app.FragmentTransaction;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -37,6 +39,7 @@ public class MobileFragment extends Fragment
 {
     TextView tx;
     TextView rx;
+    static public String Fname="mobile";
 
     //Pie Chart Variables
     PieChart mChart;
@@ -62,6 +65,7 @@ public class MobileFragment extends Fragment
         super.onCreate(savedInstanceState);
 
     }
+
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
@@ -103,6 +107,11 @@ public class MobileFragment extends Fragment
         tx.setText(StaticVariables.dataConverter(StaticDataModel.mobileTX));
         rx.setText(StaticVariables.dataConverter(StaticDataModel.mobileRX));
 
+        /*if (container != null) {
+            container.removeAllViews();
+
+        }
+*/
         return view;
     }
 

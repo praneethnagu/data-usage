@@ -4,6 +4,7 @@ import android.support.v4.app.Fragment;
 import android.os.Bundle;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentTransaction;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -30,6 +31,8 @@ public class HomeMobileFragment extends Fragment implements View.OnClickListener
         buttonBar.setOnClickListener(this);
         buttonLine.setOnClickListener(this);
 
+
+
         return view;
 
     }
@@ -42,17 +45,18 @@ public class HomeMobileFragment extends Fragment implements View.OnClickListener
             //int i = ((ViewGroup)getView().getParent()).getId();
             //ft.replace(i,new MobileFragment());
             ft.replace(R.id.home_mobile_frag, new MobileFragment());
-            ft.addToBackStack("mobile");
+            ft.addToBackStack(null);
+//            Log.e("asd",fm.getBackStackEntryCount()+"");
             ft.commit();
         }
         else if (v == buttonBar){
-            FragmentManager fm = getActivity().getSupportFragmentManager();
+            FragmentManager fm = getFragmentManager();
             //fm.addOnBackStackChangedListener((FragmentManager.OnBackStackChangedListener) this);
             FragmentTransaction ft = fm.beginTransaction();
             //int i = ((ViewGroup)getView().getParent()).getId();
             //ft.replace(i,new MobileBarFragment());
             ft.replace(R.id.home_mobile_frag , new MobileBarFragment());
-            ft.addToBackStack("mobile");
+            ft.addToBackStack(null);
             ft.commit();
         }
         else if (v == buttonLine){

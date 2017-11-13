@@ -256,6 +256,10 @@
         "source": "C:\\Users\\ABHIJNU\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\92b4a29bee9de51b170b2154f552928d\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_wifi_bar.xml.flat",
+        "source": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\src\\main\\res\\layout\\fragment_wifi_bar.xml"
+    },
+    {
         "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
         "source": "C:\\Users\\ABHIJNU\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\92b4a29bee9de51b170b2154f552928d\\res\\drawable\\abc_btn_check_material.xml"
     },
@@ -440,6 +444,10 @@
         "source": "C:\\Users\\ABHIJNU\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\92b4a29bee9de51b170b2154f552928d\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_total.xml.flat",
+        "source": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\src\\main\\res\\layout\\fragment_home_total.xml"
+    },
+    {
         "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_rating_star_off_mtrl_alpha.png.flat",
         "source": "C:\\Users\\ABHIJNU\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\92b4a29bee9de51b170b2154f552928d\\res\\drawable-mdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
     },
@@ -582,6 +590,10 @@
     {
         "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
         "source": "C:\\Users\\ABHIJNU\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\92b4a29bee9de51b170b2154f552928d\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_wifi_line.xml.flat",
+        "source": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\src\\main\\res\\layout\\fragment_wifi_line.xml"
     },
     {
         "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
@@ -1188,6 +1200,10 @@
         "source": "C:\\Users\\ABHIJNU\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\92b4a29bee9de51b170b2154f552928d\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
     },
     {
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_total_bar.xml.flat",
+        "source": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\src\\main\\res\\layout\\fragment_total_bar.xml"
+    },
+    {
         "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_apps_icon.png.flat",
         "source": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\src\\main\\res\\drawable-hdpi\\ic_apps_icon.png"
     },
@@ -1312,6 +1328,10 @@
         "source": "C:\\Users\\ABHIJNU\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.4.0.aar\\cde6048ca850640ad7afef5b50fa5d56\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_total_line.xml.flat",
+        "source": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\src\\main\\res\\layout\\fragment_total_line.xml"
+    },
+    {
         "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
         "source": "C:\\Users\\ABHIJNU\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-23.4.0.aar\\92b4a29bee9de51b170b2154f552928d\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
     },
@@ -1358,6 +1378,10 @@
     {
         "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout_design_bottom_sheet_dialog.xml.flat",
         "source": "C:\\Users\\ABHIJNU\\.gradle\\caches\\transforms-1\\files-1.1\\design-23.4.0.aar\\cde6048ca850640ad7afef5b50fa5d56\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home_wifi.xml.flat",
+        "source": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\src\\main\\res\\layout\\fragment_home_wifi.xml"
     },
     {
         "merged": "C:\\Users\\ABHIJNU\\Desktop\\data-usage\\DataUsage\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_ab_back_mtrl_am_alpha.png.flat",
